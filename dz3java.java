@@ -61,7 +61,7 @@ class Triangle {
         return a + b + c;
     }
 }
-public class dz3 {
+public class dz3java {
     public static void main(String[] args) {
         try {
             Rectangle rectangle = new Rectangle(5, 10);
